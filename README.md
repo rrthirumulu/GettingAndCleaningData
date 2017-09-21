@@ -1,4 +1,4 @@
-#Class Project for "Getting and Cleaning Data"
+Class Project for "Getting and Cleaning Data"
 
 The following repository contains the files necessary to perform an analysis on the "Human Activity Recognition Using Smartphones" dataset.
 After performing analysis, the code will tidy the tada and output it to tidy.csv
